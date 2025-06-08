@@ -76,4 +76,4 @@ MIT License - Free for personal and commercial use
 
 **Pro Tip**: Try level 5 with max difficulty for the ultimate cyber-cat challenge! 💀
 
-![Gameplay](https://kaleeswaran001.github.io/catch_the_cat1/) *Example gameplay animation*
+(https://kaleeswaran001.github.io/catch_the_cat1/) *Example gameplay animation*
